@@ -1,0 +1,50 @@
+[{
+    "image" : "https://www.pinclipart.com/picdir/big/41-411023_meat-clipart-non-veg-food-cartoon-cabbage-roll.png",
+    "name" : "Veg",
+    "key1" : "1"
+  },
+  {
+    "image" : "https://i.pinimg.com/originals/c9/30/37/c930372b3343345896323893228a5b00.jpg",
+    "name" : "Non-Veg",
+    "key1" : "2"
+  },
+  {
+    "image" : "https://i.pinimg.com/originals/bc/db/ce/bcdbce215911f34c13f163a725362257.jpg",
+    "name" : "Kiddie",
+    "key1" : "6"
+  },
+  {
+    "image" : "https://thumbs.dreamstime.com/b/cartoon-rice-friend-shrimp-egg-art-cartoon-rice-friend-shrimp-egg-155491129.jpg",
+    "name" : "Regional",
+    "key1" : "7"
+  },
+  {
+    "image" : "https://www.netclipart.com/pp/m/449-4491799_indian-food-clipart-indian-food-vector-png.png",
+    "name" : "Bulk Orders",
+    "key1" : "8"
+  },
+  {
+    "image" : "https://img.pngio.com/junk-food-png-pictures-trzcacakrs-fast-food-png-650_519.png",
+    "name" : "1 Hour",
+    "key1" : "1hr"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Top%20Categories%2F1hr.png?alt=media&token=7664ff00-c740-4b47-bddc-df34a17536f4",
+    "name" : "2 Hours",
+    "key1" : "2hrs"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Top%20Categories%2F3hr.png?alt=media&token=374568ab-5341-4190-b469-3ab451c453f9",
+    "name" : "3 Hours",
+    "key1" : "3hrs"
+  },
+  {
+    "image" : "https://thumbs.dreamstime.com/b/cartoon-rice-friend-shrimp-egg-art-cartoon-rice-friend-shrimp-egg-155491129.jpg",
+    "name" : "4 Hours",
+    "key1" : "4hrs"
+  },
+  {
+    "image" : "https://www.netclipart.com/pp/m/449-4491799_indian-food-clipart-indian-food-vector-png.png",
+    "name" : "5 Hours",
+    "key1" : "5hrs"
+  }]
