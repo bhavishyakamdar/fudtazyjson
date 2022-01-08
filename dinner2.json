@@ -1,19 +1,25 @@
 [{
  "image" : "https://www.shoutlo.com/uploads/articles/header-img-quick-bite-recipes.jpg",
+  "key1" : "1",
   "name" : "Quick Bites"
 }, {
   "image" : "https://live.staticflickr.com/4077/4823389333_2c9ffd1760_w.jpg",
+  "key1" : "2",
   "name" : "Curries"
 }, {
   "image" : "https://www.thespruceeats.com/thmb/C-Tv0ytM_jdUNA3l6jlNFE6rE0I=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-676294571-7d58c21598a54c1b813fa12334fee6ad.jpg",
+  "key1" : "3",
   "name" : "Indian Breads"
 }, {
   "image" : "https://thumbor.thedailymeal.com/MTzCEVrDQvEwrsodZ7hTlL6ML0Y=/870x565/filters:focal(980x733:981x734)/https://www.thedailymeal.com/sites/default/files/story/2020/shutterstock_1751836019_0.jpg",
+  "key1" : "4",
   "name" : "Burgers & Sandwiches"
 }, {
   "image" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/casserole-dinner-recipes-sweet-potato-1539118192.jpg",
+  "key1" : "5",
   "name" : "Baked Dishes"
 }, {
   "image" : "https://cdn.britannica.com/50/80550-050-5D392AC7/Scoops-kinds-ice-cream.jpg",
+  "key1" : "6",
   "name" : "Icecreams/Beverages"
 } ]

@@ -1,19 +1,25 @@
 [ {
   "image" : "https://jeanetteshealthyliving.com/wp-content/uploads/2012/10/Shawarma-Chicken-Wrap-1.jpg",
+  "key1" : "1",
   "name" : "Wraps & Rolls"
 }, {
   "image" : "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ud3rosusdxnrjon6bic7",
+  "key1" : "2",
   "name" : "Pizzas & Pastas"
 }, {
   "image" : "https://5.imimg.com/data5/UA/FU/RO/SELLER-43810015/noodles-500x500.jpg",
+  "key1" : "3",
   "name" : "Noodles"
 }, {
   "image" : "https://localbeeindia.com/wp-content/uploads/2019/11/Yellow-Dal.jpg",
+  "key1" : "4",
   "name" : "Dal"
 }, {
   "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Desserts.jpg/1200px-Desserts.jpg",
+  "key1" : "5",
   "name" : "Desserts"
 }, {
   "image" : "https://static.toiimg.com/thumb/65449803.cms?imgsize=268962&width=800&height=800",
+  "key1" : "6",
   "name" : "Pickles & Papads"
 } ]
