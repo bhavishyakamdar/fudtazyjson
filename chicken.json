@@ -1,0 +1,217 @@
+[{
+    "image" : "https://cdn.foodhospitality.in/wp-content/uploads/2019/04/22122844/Grand-Hyatt-Goa1.jpg",
+    "key1" : "2021-03-27 16-16-50 38",
+    "name" : "Rodrigues Kitchen",
+    "time" : "Pre-Order",
+    "type" : "Goan"
+  },
+  {
+    "image" : "https://d2np4vr8r37sds.cloudfront.net/article/oiavmlmjds-1535632657.jpg",
+    "key1" : "2021-03-27 17-56-18 06",
+    "name" : "Kitchen Secret",
+    "time" : "Pre-Order",
+    "type" : "Sindhi, Italian"
+  },
+  {
+    "image" : "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/w2ii0kakiyay91swhena",
+    "key1" : "2021-04-14 14-06-21 14",
+    "name" : "Mehfooz Biryani",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-19%2000-58-50%2053%2FCarrot%20tomato%20soup%20Rs100%20for%20250grams.jpg?alt=media&token=837dccc8-d1a6-49fb-9480-7a31c3a6b916",
+    "key1" : "2021-04-19 00-58-50 53",
+    "name" : "Fresh Fusion",
+    "time" : "Order Now",
+    "type" : "Soups, Salads"
+  },
+  {
+    "image" : "https://www.daysoftheyear.com/wp-content/uploads/sandwich-day-1.jpg",
+    "key1" : "2021-04-19 01-32-26 04",
+    "name" : "Akki's Kitchen",
+    "time" : "Order Now",
+    "type" : "Burgers, Sandwiches"
+  },
+  {
+    "image" : "https://www.gurgaondiary.com/wp-content/uploads/2019/01/North-Indian-Food-Restaurants-in-Gurgaon1.jpg",
+    "key1" : "2021-04-19 02-43-53 56",
+    "name" : "Buddy's Chef Kitchen",
+    "time" : "Order Now",
+    "type" : "Non Veg"
+  },
+  {
+    "image" : "https://envato-shoebox-0.imgix.net/cdce/ecf2-823f-4504-9c21-96c834507653/DSC_2810.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=88dab471ceaa089be7cadd2810fbb9df",
+    "key1" : "2021-04-19 03-42-31 39",
+    "name" : "Bella Pathak",
+    "time" : "Pre-Order",
+    "type" : "Maharashtrian"
+  },
+  {
+    "image" : "https://thumbor.thedailymeal.com/O5BS3X-3J3JKcsTKYdYd996xqsI=/870x565/https://www.thedailymeal.com/sites/default/files/slideshows/1943277/2108053/0.jpg",
+    "key1" : "2021-04-19 10-08-21 30",
+    "name" : "Pakwaan Caterers",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://hips.hearstapps.com/delish/assets/18/05/1517424592-shepherds-pie-delish-2.jpg",
+    "key1" : "2021-04-19 11-16-56 90",
+    "name" : "The Singing Home Chef",
+    "time" : "Order Now",
+    "type" : "Portuguese"
+  },
+  {
+    "image" : "https://post.healthline.com/wp-content/uploads/2020/07/thali-indian-732x549-thumbnail-732x549.jpg",
+    "key1" : "2021-04-19 17-38-46 89",
+    "name" : "Ganesh Snacks",
+    "time" : "Order Now",
+    "type" : "Set Meals"
+  },
+  {
+    "image" : "https://b.zmtcdn.com/data/pictures/chains/8/18505328/96c318c0e7eba3dd5e961eddd1913399_o2_featured_v2.jpg",
+    "key1" : "2021-04-19 22-46-20 12",
+    "name" : "Aagri Malwani Home Made Food",
+    "time" : "Order Now",
+    "type" : "Malwani"
+  },
+  {
+    "image" : "https://previews.123rf.com/images/indianfoodimages/indianfoodimages1908/indianfoodimages190800096/128900100-assorted-indian-non-vegetarian-food-recipe-served-in-a-group-includes-chicken-curry-mutton-masala-an.jpg",
+    "key1" : "2021-04-20 11-06-31 34",
+    "name" : "Happiness Is Home Made",
+    "time" : "Pre-Order",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/paneer-butter-masala-fb.jpg",
+    "key1" : "2021-04-21 11-48-11 18",
+    "name" : "Desi Kitchen",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://d1ralsognjng37.cloudfront.net/11c7102a-e6ce-46db-a457-4b0384855fbb.jpeg",
+    "key1" : "2021-04-23 11-18-20 56",
+    "name" : "Dhakkan's Kitchen",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisine"
+  },
+  {
+    "image" : "https://www.thespruceeats.com/thmb/X6mg_2VBCQQ2X8VrLcPTf8_4ce0=/2733x2050/smart/filters:no_upscale()/chinese-take-out-472927590-57d31fff3df78c5833464e7b.jpg",
+    "key1" : "2021-04-24 13-16-32 43",
+    "name" : "Bayleaf & Hakka Soy",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://media-cdn.tripadvisor.com/media/photo-s/12/59/d8/52/indian-main-course-kalyan.jpg",
+    "key1" : "2021-04-24 13-36-29 07",
+    "name" : "Perfect Plate",
+    "time" : "Order Now",
+    "type" : "Italian, North Indian"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-29%2010-48-38%2037%2FKolkatta%20kathi%20chicken%20%26%20egg%20tolls%20Rs168.jpg?alt=media&token=87ae3370-7f79-4c2d-be4f-04194683d639",
+    "key1" : "2021-04-29 10-48-38 37",
+    "name" : "Kolkata Kitchen Factory",
+    "time" : "Order Now",
+    "type" : "Bengali"
+  },
+  {
+    "image" : "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/2021_1$largeimg_1922831586.jpg",
+    "key1" : "2021-04-29 12-06-01 60",
+    "name" : "The FoodWorks",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://format-com-cld-res.cloudinary.com/image/private/s--co6W2A6D--/c_limit,g_center,h_550,w_65535/fl_keep_iptc.progressive,q_95/v1/ee188b6af11eff3ea7cc0590ab65d18e/Anshika_Varma_ammaji_kitchen_C3A7840.jpg",
+    "key1" : "2021-05-18 17-14-23 59",
+    "name" : "Prep A Meal",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://imgmedia.lbb.in/media/2019/08/5d63b1f925d2a6920bfc1d11_1566814713943.jpg",
+    "key1" : "2021-06-09 14-57-48 79",
+    "name" : "Bebe Ki Rasoi",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://www.blueosa.com/wp-content/uploads/2020/01/the-best-top-10-indian-dishes.jpg",
+    "key1" : "2021-06-09 19-00-16 22",
+    "name" : "Indian Essence",
+    "time" : "Order Now",
+    "type" : "Indian Food"
+  },
+  {
+    "image" : "https://static01.nyt.com/images/2019/09/25/dining/aw-lamb-kebabs/aw-lamb-kebabs-articleLarge.jpg",
+    "key1" : "2021-06-17 21-43-30 96",
+    "name" : "The Kitchen Treats",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://static.toiimg.com/thumb/78558985.cms?resizemode=4&width=1200",
+    "key1" : "2021-06-21 11-19-04 51",
+    "name" : "Dimples Home Made Food",
+    "time" : "Pre-Order",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://i1.wp.com/vegecravings.com/wp-content/uploads/2018/06/Paneer-Tikka-Masala-Recipe-Step-By-Step-Instructions.jpg?fit=3826%2C3036&quality=65&strip=all&ssl=1",
+    "key1" : "2021-06-22 17-39-35 84",
+    "name" : "Swaad The Taste of Home",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://curlytales.com/wp-content/uploads/2017/06/And-Chillies.jpg",
+    "key1" : "2021-07-31 11-38-35 88",
+    "name" : "Taste Of Chinese",
+    "time" : "Order Now",
+    "type" : "Chinese"
+  },
+  {
+    "image" : "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/styles/1200x706/public/content9085.jpg?itok=O3XLEsv8",
+    "key1" : "2021-08-18 18-42-08 30",
+    "name" : "Desi Eaters",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/rjhxofkxdx5jauxyeheu",
+    "key1" : "2021-09-07 20-02-02 46",
+    "name" : "Saraswat Saiba",
+    "time" : "Pre-Order",
+    "type" : "Meals"
+  },
+  {
+    "image" : "https://www.ourvadodara.com/wp-content/uploads/2018/12/The-Cook-Vadodara.jpeg",
+    "key1" : "2021-11-10 12-23-33 02",
+    "name" : "165 Degree Eats",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  },
+  {
+    "image" : "https://lh3.googleusercontent.com/ysniY98woviZlwHa9d23BcnWIsZjQWc_HPyNxfvM8wWDYx2pEDAkRgofSxhDp2eFYljkOrqbiEKKNmp5H7gjyj6Uw-Ll=w1000",
+    "key1" : "2021-12-04 12-28-52 89",
+    "name" : "Neha's Kitchenette",
+    "time" : "Pre-Order",
+    "type" : "Multi Cuisine"
+  },
+  {
+    "image" : "https://www.quicklly.com/images/inner-banner/tiffin.png",
+    "key1" : "2021-12-12 17-37-52 70",
+    "name" : "Annapurna Tiffin Service",
+    "time" : "Pre-Order",
+    "type" : "Multicusine"
+  },
+  {
+    "image" : "https://embracetheworldsite.files.wordpress.com/2017/10/food9.jpg",
+    "key1" : "2022-01-06 16-34-08 02",
+    "name" : "Homefresh",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  }]
