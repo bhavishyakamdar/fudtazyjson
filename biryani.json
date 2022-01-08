@@ -1,0 +1,154 @@
+[{
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/WhatsApp%20Image%202021-06-23%20at%2021.09.46.jpeg?alt=media&token=0424dc9b-3b7b-4d10-b716-14aa3f165521",
+    "key1" : "2021-03-27 16-49-59 53",
+    "name" : "Meethi Shuruaat",
+    "time" : "Order Now",
+    "type" : "Multi-Cuisine"
+  },
+  {
+    "image" : "https://static.toiimg.com/thumb/52416693.cms?imgsize=789478&width=800&height=800",
+    "key1" : "2021-03-27 17-18-02 69",
+    "name" : "Vidya's Kitchen",
+    "time" : "Pre Order",
+    "type" : "General"
+  },
+  {
+    "image" : "https://d2np4vr8r37sds.cloudfront.net/article/oiavmlmjds-1535632657.jpg",
+    "key1" : "2021-03-27 17-56-18 06",
+    "name" : "Kitchen Secret",
+    "time" : "Pre-Order",
+    "type" : "Sindhi, Italian"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/WhatsApp%20Image%202021-08-05%20at%2011.51.08.jpeg?alt=media&token=b5ccb2ae-ee8b-44ba-b4a6-eb7625a5517d",
+    "key1" : "2021-03-27 20-37-04 03",
+    "name" : "Harsha's Gourmet",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://media-cdn.tripadvisor.com/media/photo-s/18/93/94/9d/italian-chinese-continental.jpg",
+    "key1" : "2021-04-06 11-48-38 99",
+    "name" : "Jedi's Kitchen",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/w2ii0kakiyay91swhena",
+    "key1" : "2021-04-14 14-06-21 14",
+    "name" : "Mehfooz Biryani",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://www.gurgaondiary.com/wp-content/uploads/2019/01/North-Indian-Food-Restaurants-in-Gurgaon1.jpg",
+    "key1" : "2021-04-19 02-43-53 56",
+    "name" : "Buddy's Chef Kitchen",
+    "time" : "Order Now",
+    "type" : "Non Veg"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-19%2003-36-34%2051%2FPuran%20poli%20%2CRs65%20%2C%202pcs.jpg?alt=media&token=7a89faa7-8d00-4c8e-b02e-1b7cace03efe",
+    "key1" : "2021-04-19 03-36-34 51",
+    "name" : "Swadisht Puran Poli",
+    "time" : "Pre-Order",
+    "type" : "Sweets, Biryani"
+  },
+  {
+    "image" : "https://b.zmtcdn.com/data/pictures/chains/8/18505328/96c318c0e7eba3dd5e961eddd1913399_o2_featured_v2.jpg",
+    "key1" : "2021-04-19 22-46-20 12",
+    "name" : "Aagri Malwani Home Made Food",
+    "time" : "Order Now",
+    "type" : "Malwani"
+  },
+  {
+    "image" : "https://i2-prod.leeds-live.co.uk/best-in-leeds/restaurants-bars/article15003428.ece/ALTERNATES/s615/0_Bundobust-LeedsPNG.png",
+    "key1" : "2021-04-22 19-28-14 19",
+    "name" : "Hem's Kitchen",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisine"
+  },
+  {
+    "image" : "https://d1ralsognjng37.cloudfront.net/11c7102a-e6ce-46db-a457-4b0384855fbb.jpeg",
+    "key1" : "2021-04-23 11-18-20 56",
+    "name" : "Dhakkan's Kitchen",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisine"
+  },
+  {
+    "image" : "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/2021_1$largeimg_1922831586.jpg",
+    "key1" : "2021-04-29 12-06-01 60",
+    "name" : "The FoodWorks",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/housepartyyy%2Fbgimg-min.jpeg?alt=media&token=9ed7466e-3028-4771-a288-388be0c7704c",
+    "key1" : "2021-06-02 16-59-40 94",
+    "name" : "Housepartyyy",
+    "time" : "Order Now",
+    "type" : "Multi-Cuisine"
+  },
+  {
+    "image" : "https://imgmedia.lbb.in/media/2019/08/5d63b1f925d2a6920bfc1d11_1566814713943.jpg",
+    "key1" : "2021-06-09 14-57-48 79",
+    "name" : "Bebe Ki Rasoi",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://static01.nyt.com/images/2019/09/25/dining/aw-lamb-kebabs/aw-lamb-kebabs-articleLarge.jpg",
+    "key1" : "2021-06-17 21-43-30 96",
+    "name" : "The Kitchen Treats",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://i1.wp.com/vegecravings.com/wp-content/uploads/2018/06/Paneer-Tikka-Masala-Recipe-Step-By-Step-Instructions.jpg?fit=3826%2C3036&quality=65&strip=all&ssl=1",
+    "key1" : "2021-06-22 17-39-35 84",
+    "name" : "Swaad The Taste of Home",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/styles/1200x706/public/content9085.jpg?itok=O3XLEsv8",
+    "key1" : "2021-08-18 18-42-08 30",
+    "name" : "Desi Eaters",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://www.quicklly.com/images/inner-banner/tiffin.png",
+    "key1" : "2021-12-12 17-37-52 70",
+    "name" : "Annapurna Tiffin Service",
+    "time" : "Pre-Order",
+    "type" : "Multicusine"
+  },
+  {
+    "image" : "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20200624175830/FI.jpg",
+    "key1" : "2021-12-27 14-51-36 61",
+    "name" : "Sharvari’s Tiffins",
+    "time" : "Pre-Order",
+    "type" : "Multi Cuisine"
+  },
+  {
+    "image" : "https://m.economictimes.com/thumb/msid-71121981,width-1200,height-900,resizemode-4,imgsize-810723/butter-chicken-1.jpg",
+    "key1" : "2022-01-04 08-26-25 93",
+    "name" : "The Food Fiesta",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  },
+  {
+    "image" : "https://onlyinyourstate.in/wp-content/uploads/2018/07/Mumbai-Street-Food.jpg",
+    "key1" : "2022-01-06 09-24-38 57",
+    "name" : "Krishna's Catering Service",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  },
+  {
+    "image" : "https://embracetheworldsite.files.wordpress.com/2017/10/food9.jpg",
+    "key1" : "2022-01-06 16-34-08 02",
+    "name" : "Homefresh",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  }]

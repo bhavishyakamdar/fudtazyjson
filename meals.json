@@ -1,0 +1,42 @@
+[{
+    "image" : "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vfvx2mulxwqxyrl4fkfk",
+    "key1" : "2021-04-07 12-55-53 14",
+    "name" : "Samarth Kitchen",
+    "time" : "Order Now",
+    "type" : "Daily Meals"
+  },
+  {
+    "image" : "https://static.toiimg.com/photo/76942221.cms",
+    "key1" : "2021-04-19 01-40-52 34",
+    "name" : "Astha Kitchen",
+    "time" : "Pre-Order",
+    "type" : "Daily Meals"
+  },
+  {
+    "image" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3IM2EJRGCA6WZPOW5NYZ6IEQ74.jpg&w=1200",
+    "key1" : "2021-04-29 11-19-08 90",
+    "name" : "Manisha Ganantra's Kitchen",
+    "time" : "Pre-Order",
+    "type" : "Daily Meals"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-30%2012-45-41%2081%2FNimbu%20mix%20pickle%20Rs500%20for%201000grams.jpg?alt=media&token=ea3aafd9-bef1-4e22-b3a3-e02fef86c786",
+    "key1" : "2021-04-30 12-45-41 81",
+    "name" : "Rasoi Ghar Ki",
+    "time" : "Order Now",
+    "type" : "Daily Meals"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-06-02%2016-46-32%2058%2FMutton%20tiffin%20Rs280.jpg?alt=media&token=5f1ec94d-7c9a-4929-b7dd-edd686384ac3",
+    "key1" : "2021-06-02 16-46-32 58",
+    "name" : "Arpita's Kitchen",
+    "time" : "Pre-Order",
+    "type" : "Daily Meals"
+  },
+  {
+    "image" : "https://onlyinyourstate.in/wp-content/uploads/2018/07/Mumbai-Street-Food.jpg",
+    "key1" : "2022-01-06 09-24-38 57",
+    "name" : "Krishna's Catering Service",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  }]

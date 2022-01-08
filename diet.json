@@ -1,0 +1,56 @@
+[{
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-19%2000-58-50%2053%2FCarrot%20tomato%20soup%20Rs100%20for%20250grams.jpg?alt=media&token=837dccc8-d1a6-49fb-9480-7a31c3a6b916",
+    "key1" : "2021-04-19 00-58-50 53",
+    "name" : "Fresh Fusion",
+    "time" : "Order Now",
+    "type" : "Soups, Salads"
+  },
+  {
+    "image" : "https://img.thrfun.com/img/195/673/soup_x2.jpg",
+    "key1" : "2021-04-24 12-03-36 99",
+    "name" : "Poonam Kapur's Kitchen",
+    "time" : "Order Now",
+    "type" : "Indian"
+  },
+  {
+    "image" : "https://media-cdn.tripadvisor.com/media/photo-s/12/59/d8/52/indian-main-course-kalyan.jpg",
+    "key1" : "2021-04-24 13-36-29 07",
+    "name" : "Perfect Plate",
+    "time" : "Order Now",
+    "type" : "Italian, North Indian"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/WhatsApp%20Image%202021-08-01%20at%2006.05.41.jpeg?alt=media&token=14c0d8e2-c149-4dfd-b053-ca63d6d09d38",
+    "key1" : "2021-04-29 11-03-10 40",
+    "name" : "The Bread Box",
+    "time" : "Pre-Order",
+    "type" : "Gourmet Breads"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/IMG-20210623-WA0026.jpg?alt=media&token=f78c4410-ea80-4e5b-a397-443eb8335240",
+    "key1" : "2021-05-04 18-58-48 15",
+    "name" : "The Health Station",
+    "time" : "Pre-Order",
+    "type" : "Nutribars"
+  },
+  {
+    "image" : "https://format-com-cld-res.cloudinary.com/image/private/s--co6W2A6D--/c_limit,g_center,h_550,w_65535/fl_keep_iptc.progressive,q_95/v1/ee188b6af11eff3ea7cc0590ab65d18e/Anshika_Varma_ammaji_kitchen_C3A7840.jpg",
+    "key1" : "2021-05-18 17-14-23 59",
+    "name" : "Prep A Meal",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://www.adfs.in/mukhwas/images/mukhwas.jpg",
+    "key1" : "2021-05-24 21-30-23 50",
+    "name" : "Healthy Bites",
+    "time" : "Pre-Order",
+    "type" : "Mouth Freshners"
+  },
+  {
+    "image" : "https://masalabuzz.com/wp-content/uploads/2021/06/North-Indian-cover-food.jpg",
+    "key1" : "2021-12-24 12-22-43 34",
+    "name" : "Sri Poorni",
+    "time" : "Pre-Order",
+    "type" : "North Indian"
+  }]

@@ -1,0 +1,29 @@
+[
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-29%2010-48-38%2037%2FKolkatta%20kathi%20chicken%20%26%20egg%20tolls%20Rs168.jpg?alt=media&token=87ae3370-7f79-4c2d-be4f-04194683d639",
+    "key1" : "2021-04-29 10-48-38 37",
+    "name" : "Kolkata Kitchen Factory",
+    "time" : "Order Now",
+    "type" : "Bengali"
+  },
+  {
+    "image" : "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/2021_1$largeimg_1922831586.jpg",
+    "key1" : "2021-04-29 12-06-01 60",
+    "name" : "The FoodWorks",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://format-com-cld-res.cloudinary.com/image/private/s--co6W2A6D--/c_limit,g_center,h_550,w_65535/fl_keep_iptc.progressive,q_95/v1/ee188b6af11eff3ea7cc0590ab65d18e/Anshika_Varma_ammaji_kitchen_C3A7840.jpg",
+    "key1" : "2021-05-18 17-14-23 59",
+    "name" : "Prep A Meal",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/rjhxofkxdx5jauxyeheu",
+    "key1" : "2021-09-07 20-02-02 46",
+    "name" : "Saraswat Saiba",
+    "time" : "Pre-Order",
+    "type" : "Meals"
+  }]

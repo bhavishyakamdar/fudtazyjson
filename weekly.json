@@ -1,0 +1,56 @@
+[{
+    "image" : "https://sugarspicenice.in/wp-content/uploads/2018/10/1540189181570.jpg",
+    "key1" : "2021-04-14 15-46-34 42",
+    "name" : "Tanisi Platter",
+    "time" : "Pre-Order",
+    "type" : "Sindhi"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-19%2000-58-50%2053%2FCarrot%20tomato%20soup%20Rs100%20for%20250grams.jpg?alt=media&token=837dccc8-d1a6-49fb-9480-7a31c3a6b916",
+    "key1" : "2021-04-19 00-58-50 53",
+    "name" : "Fresh Fusion",
+    "time" : "Order Now",
+    "type" : "Soups, Salads"
+  },
+  {
+    "image" : "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ifgbeuyrqy50fdwgllee",
+    "key1" : "2021-04-19 04-11-39 12",
+    "name" : "Yummy Mummy",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://hips.hearstapps.com/delish/assets/18/05/1517424592-shepherds-pie-delish-2.jpg",
+    "key1" : "2021-04-19 11-16-56 90",
+    "name" : "The Singing Home Chef",
+    "time" : "Order Now",
+    "type" : "Portuguese"
+  },
+  {
+    "image" : "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/2021_1$largeimg_1922831586.jpg",
+    "key1" : "2021-04-29 12-06-01 60",
+    "name" : "The FoodWorks",
+    "time" : "Pre-Order",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://www.englishclub.com/images/vocabulary/food/indian/indian-food-640.jpg",
+    "key1" : "2021-06-09 15-01-52 63",
+    "name" : "Local Parcel Kitchen",
+    "time" : "Order Now",
+    "type" : "Set Meals"
+  },
+  {
+    "image" : "https://www.ourvadodara.com/wp-content/uploads/2018/12/The-Cook-Vadodara.jpeg",
+    "key1" : "2021-11-10 12-23-33 02",
+    "name" : "165 Degree Eats",
+    "time" : "Pre-Order",
+    "type" : "Multicuisine"
+  },
+  {
+    "image" : "https://media-cdn.tripadvisor.com/media/photo-s/19/3c/91/75/vegetarian-thali-unlimited.jpg",
+    "key1" : "2021-12-14 11-04-46 78",
+    "name" : "Mytiffinz",
+    "time" : "Pre-Order",
+    "type" : "Set Meals"
+  }]

@@ -1,0 +1,84 @@
+[ {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/Food%20Images%2F2021-04-19%2000-58-50%2053%2FCarrot%20tomato%20soup%20Rs100%20for%20250grams.jpg?alt=media&token=837dccc8-d1a6-49fb-9480-7a31c3a6b916",
+    "key1" : "2021-04-19 00-58-50 53",
+    "name" : "Fresh Fusion",
+    "time" : "Order Now",
+    "type" : "Soups, Salads"
+  },
+  {
+    "image" : "https://www.daysoftheyear.com/wp-content/uploads/sandwich-day-1.jpg",
+    "key1" : "2021-04-19 01-32-26 04",
+    "name" : "Akki's Kitchen",
+    "time" : "Order Now",
+    "type" : "Burgers, Sandwiches"
+  },
+  {
+    "image" : "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/paneer-butter-masala-fb.jpg",
+    "key1" : "2021-04-21 11-48-11 18",
+    "name" : "Desi Kitchen",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisines"
+  },
+  {
+    "image" : "https://i2-prod.leeds-live.co.uk/best-in-leeds/restaurants-bars/article15003428.ece/ALTERNATES/s615/0_Bundobust-LeedsPNG.png",
+    "key1" : "2021-04-22 19-28-14 19",
+    "name" : "Hem's Kitchen",
+    "time" : "Order Now",
+    "type" : "Multiple Cuisine"
+  },
+  {
+    "image" : "https://img.thrfun.com/img/195/673/soup_x2.jpg",
+    "key1" : "2021-04-24 12-03-36 99",
+    "name" : "Poonam Kapur's Kitchen",
+    "time" : "Order Now",
+    "type" : "Indian"
+  },
+  {
+    "image" : "https://media-cdn.tripadvisor.com/media/photo-s/12/59/d8/52/indian-main-course-kalyan.jpg",
+    "key1" : "2021-04-24 13-36-29 07",
+    "name" : "Perfect Plate",
+    "time" : "Order Now",
+    "type" : "Italian, North Indian"
+  },
+  {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fudtazy-4bd2b.appspot.com/o/housepartyyy%2Fbgimg-min.jpeg?alt=media&token=9ed7466e-3028-4771-a288-388be0c7704c",
+    "key1" : "2021-06-02 16-59-40 94",
+    "name" : "Housepartyyy",
+    "time" : "Order Now",
+    "type" : "Multi-Cuisine"
+  },
+  {
+    "image" : "https://imgmedia.lbb.in/media/2019/08/5d63b1f925d2a6920bfc1d11_1566814713943.jpg",
+    "key1" : "2021-06-09 14-57-48 79",
+    "name" : "Bebe Ki Rasoi",
+    "time" : "Order Now",
+    "type" : "North Indian"
+  },
+  {
+    "image" : "https://img.jakpost.net/c/2016/09/29/2016_09_29_12990_1475116504._large.jpg",
+    "key1" : "2021-08-23 16-24-13 38",
+    "name" : "Nosh It Up",
+    "time" : "Order Now",
+    "type" : "Multicuisine"
+  },
+  {
+    "image" : "https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2014/06/14/Photos/sindhi--621x414.jpg",
+    "key1" : "2021-12-04 11-43-51 34",
+    "name" : "Krishna Mom's Kitchen",
+    "time" : "Pre-Order",
+    "type" : "Gujarati Meals"
+  },
+  {
+    "image" : "https://www.quicklly.com/images/inner-banner/tiffin.png",
+    "key1" : "2021-12-12 17-37-52 70",
+    "name" : "Annapurna Tiffin Service",
+    "time" : "Pre-Order",
+    "type" : "Multicusine"
+  },
+  {
+    "image" : "https://masalabuzz.com/wp-content/uploads/2021/06/North-Indian-cover-food.jpg",
+    "key1" : "2021-12-24 12-22-43 34",
+    "name" : "Sri Poorni",
+    "time" : "Pre-Order",
+    "type" : "North Indian"
+  }]

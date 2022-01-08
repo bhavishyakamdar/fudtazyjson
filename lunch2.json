@@ -1,0 +1,19 @@
+[ {
+  "image" : "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nzmt56pc7fqccwbp4fcf",
+  "name" : "Combo Meals"
+}, {
+  "image" : "https://www.thespruceeats.com/thmb/Z683ZVZ2VQ5CkrLGfsVJgJ5k3Tw=/4664x2623/smart/filters:no_upscale()/naan-leavened-indian-flatbread-1957348-final-08-116a2e523f6e4ee693b1a9655784d9b9.jpg",
+  "name" : "Indian Breads"
+}, {
+  "image" : "https://d3aew4oo17ml6.cloudfront.net/images/photos/thumbnailfull/photos-2013-12-16-8-23-14.jpg?v=1.1.0",
+  "name" : "Starters"
+}, {
+  "image" : "https://static01.nyt.com/images/2018/04/19/dining/19COOKING-DAL3/19COOKING-DAL3-articleLarge-v3.jpg",
+  "name" : "Dal"
+}, {
+  "image" : "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-50773_12-39c611e.jpg?quality=90&webp=true&resize=440,400",
+  "name" : "Cakes & Brownies"
+}, {
+  "image" : "https://media-cdn.tripadvisor.com/media/photo-s/11/fa/ae/88/come-try-our-take-on.jpg",
+  "name" : "Something Different"
+} ]
